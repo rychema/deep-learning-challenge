@@ -3,7 +3,7 @@
 # Purpose
 
 The purpose of this analysis is to use a neural network model to predict whether a charity will be successful based on various features. 
-This analysis can help predict whether applicants will be successful if funded by Alphabet Soup.  
+  
 The target is to get the accuracy of this analytical tool to more than 75% and the funded applicants success rate by using most of the remaining features after preprocessing.
 
 # Data Preprocessing
